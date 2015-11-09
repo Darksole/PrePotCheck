@@ -1,0 +1,6 @@
+## Interface: 60000
+## Title: PrePotCheck
+## Version: 1.2
+## Author: Darksole
+## Notes: PrePotCheck checks if raid members have used potions before combat and during combat, and prints a list of members who did not.
+Prepotcheck.lua
